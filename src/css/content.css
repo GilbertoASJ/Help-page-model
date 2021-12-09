@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("../assets/bg-3.png");
+  background-repeat: no-repeat;
+  background-position: top right;
+  font-family: "Poppins", sans-serif;
+}
+
+#videos {
+  margin-top: 84px;
+}
+#videos .bd {
+  border-bottom: 2px solid #000;
+  max-width: 950px;
+}
+#videos div.video-iframe div p {
+  font-size: 14px;
+}
+
+footer {
+  background: #edf5f8;
+}
+
+/*# sourceMappingURL=content.css.map */
