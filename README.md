@@ -13,8 +13,7 @@
   <h2 align="center">Help page model</h2>
 
   <p align="center">
-    Modelo de página de ajuda![147665514-7dfc804a-6281-4d43-8335-573c759016d6](https://user-images.githubusercontent.com/56325350/147665872-703dc3e2-926c-4dcd-b2b9-7dd626baaa8e.png)
-
+    Modelo de página de ajuda!
     <br />
     <a href="https://github.com/GilbertoASJ/Help-page-model/"><strong>Explore os arquivos »</strong></a>
     <br />
